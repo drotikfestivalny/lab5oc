@@ -1,0 +1,13 @@
+# system files
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# environments
+.env
+
+# Python / Node (на всякий)
+__pycache__/
+node_modules/
